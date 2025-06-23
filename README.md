@@ -2,12 +2,12 @@
 
 ## 1️⃣ Pertemuan Pertama
 
-**[Perkenalan Mata Kuliah Robotik]**
+**[Perkenalan Mata Kuliah Robotik]**<br>
 Berkenalan dengan dosen pengampu, yakni Bpk. Basuki. Kemudian berkenalan sedikit tentang robotik. Pada tahap ini, kami menerima penjelasan mengenai apa saja yang akan dilakukan pada mata kuliah robotik, seperti skema pembelajaran, pengerjaan UTS hingga UAS.
 
 ## 2️⃣ Pertemuan Kedua
 
-**[Instalasi Arduino IDE]**
+**[Instalasi Arduino IDE]**<br>
 Pengenalan dan instalasi Arduino IDE. Selain itu, kami juga mempelajari bagaimana cara melakukan instalasi beberapa library penting yang akan digunakan dalam pengerjaan project serta bagaimana konfigurasi setup yang diperlukan.
 
 ## 3️⃣ Pertemuan Ketiga
@@ -38,7 +38,7 @@ Menginstal aplikasi IoT MQTT Panel di handphone. Kemudian menghubungkan Arduino 
 
 <img src="./iTCLab/dokumentasi/BNUV2-IoT-MQTT-Panel.jpeg" alt="Praktik Kontrol Robot BNU V2 Via IoT MQTT Panel" height="300"/>
 
-**[Praktik Kontrol Robot BNU V2 Via IoT MQTT Panel]**
+**[Praktik Kontrol Robot BNU V2 Via IoT MQTT Panel]**<br>
 Mengendalikan robot BNU V2 dengan menggunakan aplikasi IoT MQTT Panel. Kami mengirimkan sebuah perintah melalui MQTT Panel yang diterjemahkan menjadi aksi pada robot secara real-time. Praktik ini bertujuan untuk memahami penerapan praktis tentang komunikasi IoT menggunakan protokol MQTT.
 
 ##
