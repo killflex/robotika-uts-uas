@@ -63,9 +63,11 @@ Proyek ini bertujuan untuk membangun kode program untuk identifikasi objek melal
 
 ## 📝 Pendahuluan
 
-<img src="./iTCLab/dokumentasi/ROBOT-BNU-AI-1.png" alt="Robot BNU + ML + AI 1" height="300"/>
-<img src="./iTCLab/dokumentasi/ROBOT-BNU-AI.png" alt="Robot BNU + ML + AI 2" height="300"/>
-<img src="./iTCLab/dokumentasi/default-ROBOT-BNU.jpeg" alt="Robot BNU + ML + AI 3" height="300"/>
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <img src="./iTCLab/dokumentasi/ROBOT-BNU-AI-1.png" alt="Robot BNU + ML + AI 1" height="300"/>
+  <img src="./iTCLab/dokumentasi/ROBOT-BNU-AI.png" alt="Robot BNU + ML + AI 2" height="300"/>
+  <img src="./iTCLab/dokumentasi/default-ROBOT-BNU.jpeg" alt="Robot BNU + ML + AI 3" height="300"/>
+</div>
 
 Proyek ROBOT BNU ini adalah sistem robotik cerdas yang mampu melakukan deteksi objek secara real-time. Menggunakan model **SSDLite320-MobileNetV3-Large** dari PyTorch, robot dapat mengidentifikasi berbagai objek di lingkungannya melalui kamera. Informasi ini kemudian digunakan untuk mengirim perintah ke mikrokontroler Arduino, memungkinkan robot bereaksi, terutama untuk menghindari tabrakan.
 
